@@ -1,17 +1,21 @@
 <h1 align="center">Hi👋, I'm Jhonatan. </h1>
 <h3 align="center">Backend Programmer .NET</h3>
 
-<p>I have a background in Mechanical Electrical Engineering, and I have been working in the electrical field for the past four years. Recently, I decided to pursue a career change. Over the last five months, I have dedicated my time to studying C#, ASP.NET, HTML, CSS, and DOCKER. Now, I am eager to gain practical experience by working in a team environment</p>
+<p>I have a background in Mechanical Electrical Engineering and have been working in the electrical field for the past five years. Through this experience, I have developed strong skills in communication and teamwork. I have always had a passion for programming since my university days. I have participated in numerous robotics competitions and graduated with a thesis on neural networks.  
+</p>
 
-- 🔭 I am currently participating in No Country, a 5-week program that simulates a working environment.
+Technical expertise and programming skills
+-  Web Programming: C# & Python 
+-  Data science: Machine learning
+-  DataBase & Platform & libraries : Sql Server & .NET & MVC & API & Entity Framework & Docker & CapRover
 
-- 🌱 I’m currently learning **React**
+Achievements and Awards
+- 2016: 3rd place in the 120 lb war-bot robotic competition - UNSA Arequipa
+- 2017: 4th place in the 120 lb war-bot robotic competition - UNT Trujillo
 
-- 👨‍💻 All of my projects are available at [myportfolio](https://portfolio.app.csharpjourney.xyz/)
-
-- 💬 Ask me about **Backend technologies**
-
-- 📫 How to reach me **larico1599@gmail.com**
+Publications
+- Application of recurrent neural networks for the prediction of electrical energy demand in the 10kv bus - Juliaca, of the distribution company Electro Puno S.A.A.
+<a>https://renati.sunedu.gob.pe/handle/sunedu/3441142</a>
 
 
 <h3 align="left">Connect with me:</h3>
