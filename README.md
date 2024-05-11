@@ -4,16 +4,25 @@
 <p>I have a background in Mechanical Electrical Engineering and have been working in the electrical field for the past five years. Through this experience, I have developed strong skills in communication and teamwork. I have always had a passion for programming since my university days. I have participated in numerous robotics competitions and graduated with a thesis on neural networks.  
 </p>
 
-Technical expertise and programming skills
--  Web Programming: C# & Python 
+## Technical expertise and programming skills
+-  Web Programming: C# & Python & JavaScript
 -  Data science: Machine learning
 -  DataBase & Platform & libraries : Sql Server & .NET & MVC & API & Entity Framework & Docker & CapRover
 
-Achievements and Awards
+## Personal Project
+
+What? Just one project. Yes! but it is an ambitious project, it's currently in development.
+
+https://github.com/jhonatanELC/SpareInventory
+
+## Grupal projects 
+https://github.com/No-Country/c17-117-t-csharp
+
+## Achievements and Awards
 - 2016: 3rd place in the 120 lb war-bot robotic competition - UNSA Arequipa
 - 2017: 4th place in the 120 lb war-bot robotic competition - UNT Trujillo
 
-Publications
+## Publications
 - Application of recurrent neural networks for the prediction of electrical energy demand in the 10kv bus - Juliaca, of the distribution company Electro Puno S.A.A.
 <a>https://renati.sunedu.gob.pe/handle/sunedu/3441142</a>
 
