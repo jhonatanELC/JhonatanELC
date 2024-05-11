@@ -5,9 +5,10 @@
 </p>
 
 ## Technical expertise and programming skills
--  Web Programming: C# & Python & JavaScript
+-  Programming languages: C# & Python & JavaScript
+-  Web Development: ASP.NET Core MVC/API
 -  Data science: Machine learning
--  DataBase & Platform & libraries : Sql Server & .NET & MVC & API & Entity Framework & Docker & CapRover
+-  DataBase & libraries & Platforms : Sql Server & Postgress & EntityFramework & Docker & CapRover
 
 ## Personal Project
 
@@ -26,6 +27,8 @@ https://github.com/No-Country/c17-117-t-csharp
 - Application of recurrent neural networks for the prediction of electrical energy demand in the 10kv bus - Juliaca, of the distribution company Electro Puno S.A.A.
 <a>https://renati.sunedu.gob.pe/handle/sunedu/3441142</a>
 
+## What am I learning?
+- React
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
