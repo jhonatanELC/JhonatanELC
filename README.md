@@ -23,6 +23,9 @@ https://github.com/No-Country/c17-117-t-csharp
 - 2016: 3rd place in the 120 lb war-bot robotic competition - UNSA Arequipa
 - 2017: 4th place in the 120 lb war-bot robotic competition - UNT Trujillo
 
+## My Portfolio
+https://jhonatanelc.github.io/Portfolio/
+
 ## Publications
 - Application of recurrent neural networks for the prediction of electrical energy demand in the 10kv bus - Juliaca, of the distribution company Electro Puno S.A.A.
 <a>https://renati.sunedu.gob.pe/handle/sunedu/3441142</a>
